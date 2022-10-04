@@ -5,13 +5,13 @@ layer-layer ditentukan. Semakin banyak layers, semakin baik pendeteksinya.
 
 
 Penentukan label pendeteksian jerawat terdiri dari :
-0 Blackhead
-1 Acne Scar
-2 Cystic Acne
-3 Nodul
-4 Papules
-5 Pustules
-6 Whitehead
+0 -> Blackhead <br>
+1 -> Acne Scar <br>
+2 -> Cystic Acne <br>
+3 -> Nodul <br>
+4 -> Papules <br>
+5 -> Pustules <br>
+6 -> Whitehead <br>
 
 Setelah melakukan penentuan label, maka deteksi gambar tersebut dengan size 224,224 dan memasukkan kedalam array, setelah itu melakukan normalisasi dengan batas 0-255.
 Setelah itu melakukan prediksi terhadap gambar yang telah dinormalisasi.
