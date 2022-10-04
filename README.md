@@ -4,7 +4,7 @@ Algoritma yang digunakan adalah algoritma CNN (Convolutional Neural Network). CN
 layer-layer ditentukan. Semakin banyak layers, semakin baik pendeteksinya.
 
 
-Penentukan label pendeteksian jerawat terdiri dari :
+Penentukan label pendeteksian jerawat terdiri dari : <br>
 0 -> Blackhead <br>
 1 -> Acne Scar <br>
 2 -> Cystic Acne <br>
